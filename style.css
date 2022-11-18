@@ -1,5 +1,5 @@
 body{
-    font-family: cursive;
+    font-family: Arial, "Sans-serif";
     transition: all .5s;
 }
 div{
@@ -19,7 +19,7 @@ button{
     border-radius: 16px;
 }
 .footer{
-    font-family: Arial, "Sans-serif";
+    font-family: cursive;
     margin-top: 4rem;
     font-size: 20px;
 }
